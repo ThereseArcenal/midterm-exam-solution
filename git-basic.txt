@@ -1,1 +1,1 @@
-echo "Therese Andrei C. Arcenal" > git-basic.txt
+ "Therese Andrei C. Arcenal" 
